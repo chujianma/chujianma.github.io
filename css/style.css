@@ -18,7 +18,7 @@ html {
 }
 
 .blue {
-	color: blue;
+	color: rgb(0,0,250);
 }
 
 h1, .blue, .middle {
